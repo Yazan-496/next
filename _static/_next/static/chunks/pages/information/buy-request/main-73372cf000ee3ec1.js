@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5716],{80323:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/information/buy-request/main",function(){return _(20854)}])}},function(n){n.O(0,[854,9774,2888,179],(function(){return u=80323,n(n.s=u);var u}));var u=n.O();_N_E=u}]);

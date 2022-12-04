@@ -1,0 +1,120 @@
+{
+  "ar": {
+    "h1": "A simple example",
+    "back-to-home": "To second page",
+    "change-locale": "Change locale to \"{{changeTo}}\"",
+    "to-second-page": "To second page",
+    "aaaa": "EEEEE",
+    "auth": {
+      "actions": {
+        "continue": "تابع",
+        "register_now": "سجل الان"
+      },
+      "nav": {
+        "about": "حول",
+        "request_a_quote": "اطلب عرض الأسعار",
+        "already_have_an_account": "لديك حساب مسبقاً؟",
+        "sign_in": "سجل دخولك",
+        "language": "English"
+      },
+      "main": {
+        "select_your_business": "اختر مجال عملك",
+        "register_as": "سجل بصفتك",
+        "supplier": "شركة شحن",
+        "buyer": "مشتري",
+        "shipper": "بائع",
+        "basic": "الأساسية",
+        "business": "العمل",
+        "information": "معلومات",
+        "get_started_absoluetely_free": "ابدأ معنا بالمجان.",
+        "no_credit_card_needed": "لست بحاجةٍ لبطاقةٍ ائتمانية.",
+        "full_name": "الاسم كاملاً",
+        "mobile_number": "رقم الهاتف",
+        "email": "البريد الالكتروني ",
+        "password": "كلمة المرور",
+        "and": "و",
+        "abraa": "",
+        "terms_of_service": "شروط الخدمة",
+        "privacy_policy": "سياسة الخصوصية .",
+        "enter_phone_number": "أدخل رقم الهاتف",
+        "by_clicking_continue_i_agree_to": "بالضغط على `تابع`، أوافق على",
+        "email_is_required": " حقل البريد الالكتروني إلزامي",
+        "password_is_required": "حقل كلمة السر إلزامي",
+        "password_must_have_at_least_6_characters": "كلمة السر يجب أن تكون 6 محارف على الأقل",
+        "mobile_phone_must_have_at_least_6_characters": "رقم الهاتف يجب أن تكون 6 محارف على الأقل",
+        "mobile_is_required": "حقل رقم الهاتف إلزامي",
+        "name_is_required": "حقل الاسم إلزامي",
+        "email_already_been_taken": "البريد الالكتروني مسجل من قبل",
+        "company": "الشركة",
+        "use_tap_or_comma_or_enter_to_submit": "استخدم الفاصلة أو الادخال للإرسال",
+        "keywords": "الكلمات المفتاحية",
+        "country": "البلد",
+        "city": "المدينة",
+        "select_country": "اختر البلد",
+        "select_city": "اختر المدينة",
+        "preferred_currency": "العملة المفضلة",
+        "usd": "الدولار الأمريكي",
+        "aed": "الدرهم"
+      }
+    }
+  },
+  "en": {
+    "h1": "A simple example",
+    "back-to-home": "To second page",
+    "change-locale": "Change locale to \"{{changeTo}}\"",
+    "to-second-page": "To second page",
+    "aaaa": "EEEEE",
+    "auth": {
+      "actions": {
+        "continue": "CONTINUE",
+        "register_now": "Register Now"
+      },
+      "nav": {
+        "about": "About",
+        "request_a_quote": "Request a Quote",
+        "already_have_an_account": "Already have an account?",
+        "sign_in": "Sign In",
+        "language": "عربي"
+      },
+      "main": {
+        "select_your_business": "Select your business",
+        "register_as": "Register as",
+        "supplier": "Supplier",
+        "buyer": "Buyer",
+        "shipper": "Shipper",
+        "basic": "Basic",
+        "business": "Business",
+        "information": "Information",
+        "get_started_absoluetely_free": "Get Started absolutely free.",
+        "no_credit_card_needed": "No credit card needed.",
+        "full_name": "Full Name",
+        "mobile_number": "Mobile Number",
+        "email": "Email",
+        "password": "Password",
+        "and": "And",
+        "abraa": "Abraa",
+        "terms_of_service": "Terms of Service",
+        "privacy_policy": "Privacy Policy.",
+        "enter_phone_number": "Enter Phone Number",
+        "by_clicking_continue_i_agree_to": "By clicking “Continue” I agree to",
+        "email_is_required": "Email Is Required",
+        "password_is_required": "Password Is Required",
+        "password_must_have_at_least_6_characters": "Password must have at least 6 characters",
+        "mobile_phone_must_have_at_least_6_characters": "Mobile Phone must have at least 6 characters",
+        "mobile_is_required": "Mobile Phone Is Required",
+        "name_is_required": "Name Is Required",
+        "email_already_been_taken": "Email already been taken",
+        "company": "Company",
+        "use_tap_or_comma_or_enter_to_submit": "Use Tap or Comma or Enter to submit",
+        "keywords": "Keywords",
+        "country": "Country",
+        "city": "City",
+        "select_country": "Select Country",
+        "select_city": "Select City",
+        "preferred_currency": "Preferred Currency",
+        "usd": "USD",
+        "aed": "AED"
+      }
+    }
+  }
+}

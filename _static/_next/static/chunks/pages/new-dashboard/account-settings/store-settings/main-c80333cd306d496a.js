@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2387],{97641:function(n,t,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/new-dashboard/account-settings/store-settings/main",function(){return _(53469)}])}},function(n){n.O(0,[3155,2957,9355,3469,9774,2888,179],(function(){return t=97641,n(n.s=t);var t}));var t=n.O();_N_E=t}]);

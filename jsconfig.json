@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/src/components/*": ["/@abraa/modules/core/components/*"],
+      "@/src/*": ["/@abraa/modules/core/*"],
+      "@/components/*": ["/@abraa/modules/core/@core/components/*"]
+    }
+  }
+}

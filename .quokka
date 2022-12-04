@@ -1,0 +1,10 @@
+{
+  "babel": true,
+  "autoLog": true,
+  "logLimit": 2000,
+  "useWsl": true,
+  "showValueOnSelection": true,
+  "showSingleInlineValue": true,
+  "autoDetect": true,
+  "jsx": true
+}
